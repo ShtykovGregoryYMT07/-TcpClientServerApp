@@ -33,6 +33,7 @@ cmake --build build
 Исполняемые файлы клиента и сервера будут созданы в каталоге сборки:
 
 -` ./build/TestTaskTcpServer/TestTaskTcpServer`
+
 -` ./build/TestTaskTcpClient/TestTaskTcpClient`
 
 
