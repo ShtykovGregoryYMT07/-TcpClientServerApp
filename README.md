@@ -49,11 +49,11 @@ cmake --build build
 ./build/TestTaskTcpServer/TestTaskTcpServer  <lowerBound> <upperBound> <step> <typeIntegration>
 где:
 
-- <lowerBound> - нижняя граница интеграла.
+- <lowerBound> - нижний предел интегрирования;
 
-- <upperBound> - верхняя граница интеграла.
+- <upperBound> - верхний предел интегрирования;
 
-- <step> - шаг интегрирования.
+- <step> - шаг интегрирования;
 
 - <typeIntegration> - тип интегрирования (целое число). 1 - Монте-Карло; 0 - прямоугольников.
 ```
