@@ -26,7 +26,7 @@ TCP cервер асинхронный, он делит общую задачу 
 ### Сборка / Build
 ```shell
 git clone --recursive git@github.com:ShtykovGregoryYMT07/-TcpClientServerApp.git
-cd TcpClientServerApp
+cd TcpClientServerApp/TestTask/
 cmake -S . -B build
 cmake --build build
 ```
